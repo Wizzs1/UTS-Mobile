@@ -1,5 +1,12 @@
 # belajar_flutter1
 
+| 🐻 | DATA MAHASISWA |
+| -------- | --- |
+| **Nama** | Wisnu Ikhwansyah Saputra|
+| **NIM** | 312010305 |
+| **Kelas** | TI.22.A3 |
+| **Mata Kuliah** | Pemrograman Web |
+
 A new Flutter project.
 
 ## Getting Started
